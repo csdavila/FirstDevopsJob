@@ -1,0 +1,49 @@
+0000000000000000000000000000000000000000 66615a3a9eac356698578cb976abd3b3dd0612a4 Stywar <franco111988@gmail.com> 1612333450 -0500	commit (initial): first commit
+66615a3a9eac356698578cb976abd3b3dd0612a4 0000000000000000000000000000000000000000 Stywar <franco111988@gmail.com> 1612333463 -0500	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 66615a3a9eac356698578cb976abd3b3dd0612a4 Stywar <franco111988@gmail.com> 1612333463 -0500	Branch: renamed refs/heads/master to refs/heads/main
+66615a3a9eac356698578cb976abd3b3dd0612a4 6d65499bf42e04e737738dea921405e2d486c7a6 Stywar <franco111988@gmail.com> 1612420767 -0500	commit: sea grego war
+6d65499bf42e04e737738dea921405e2d486c7a6 fa8c64518ef0a3cf5e53cc2de6a20d0d3c35a16f Stywar <franco111988@gmail.com> 1612422580 -0500	commit: se agrego codigo afor255
+fa8c64518ef0a3cf5e53cc2de6a20d0d3c35a16f 7f0bc5abb832b0d9e6c695f27af714785cb5b17e Stywar <franco111988@gmail.com> 1613368414 -0500	commit: se agrego Ansible
+7f0bc5abb832b0d9e6c695f27af714785cb5b17e 15dd63a8e5f2ff854937678bd44657027235f17e Stywar <franco111988@gmail.com> 1613368728 -0500	commit: se agrego Tomcat
+15dd63a8e5f2ff854937678bd44657027235f17e e336091e8c533fc082b07cfd88166f2be988b21a Stywar <franco111988@gmail.com> 1613369054 -0500	commit: se agrego v1
+e336091e8c533fc082b07cfd88166f2be988b21a 8edb4fe2f056e01e1baf22b48d327e126065d72d Stywar <franco111988@gmail.com> 1614666800 -0500	commit: se agrego yaml
+8edb4fe2f056e01e1baf22b48d327e126065d72d 2f145b27de3482f9e598b5bd9d531501b95b74dd Stywar <franco111988@gmail.com> 1615267053 -0500	commit: se agrego terraform main
+2f145b27de3482f9e598b5bd9d531501b95b74dd e1884c958c5915880d5bf86566ba4ba57fe56b70 Stywar <franco111988@gmail.com> 1615267133 -0500	pull origin main: Merge made by the 'recursive' strategy.
+e1884c958c5915880d5bf86566ba4ba57fe56b70 18935512dbf213cba9daafc31c1714a7f9d18546 Stywar <franco111988@gmail.com> 1615271393 -0500	commit: se agrego region
+18935512dbf213cba9daafc31c1714a7f9d18546 2fb3d287a1d20ac4125945ae13ba29bd7664d8d5 Stywar <franco111988@gmail.com> 1615271420 -0500	pull origin main: Merge made by the 'recursive' strategy.
+2fb3d287a1d20ac4125945ae13ba29bd7664d8d5 81c55e63f1105145754dc250afca3bf17bbd844f Stywar <franco111988@gmail.com> 1615272558 -0500	commit: se agrego
+81c55e63f1105145754dc250afca3bf17bbd844f 1d06ff7e1adafd26f1f3dcf268dcedc5b1139a0c Stywar <franco111988@gmail.com> 1615272581 -0500	pull origin main: Merge made by the 'recursive' strategy.
+1d06ff7e1adafd26f1f3dcf268dcedc5b1139a0c 14b301e0480d03ca070c337942d203a60f2b22f8 Stywar <franco111988@gmail.com> 1615272746 -0500	commit: se agrego
+14b301e0480d03ca070c337942d203a60f2b22f8 8d837a8fa95a4497d459a55c66260a6122175a58 Stywar <franco111988@gmail.com> 1615272871 -0500	commit: se agrego
+8d837a8fa95a4497d459a55c66260a6122175a58 5e4fd64ae08c5d037df0c7b861fb592176242f65 Stywar <franco111988@gmail.com> 1615273212 -0500	commit: se agrego
+5e4fd64ae08c5d037df0c7b861fb592176242f65 d06c0fa48fd69b243c9add16b9668f57c0ae5dfd Stywar <franco111988@gmail.com> 1615273762 -0500	commit: se agrego
+d06c0fa48fd69b243c9add16b9668f57c0ae5dfd caac1b3d6bb84e06c774461cc5b47d353be9bb38 Stywar <franco111988@gmail.com> 1615273865 -0500	commit: se agrego
+caac1b3d6bb84e06c774461cc5b47d353be9bb38 23f47b2b9208371ec289db7251bdf977a02fb618 Stywar <franco111988@gmail.com> 1615274585 -0500	commit: roles
+23f47b2b9208371ec289db7251bdf977a02fb618 55dacb4565794dc7baffd3e43ee462e162acb73e Stywar <franco111988@gmail.com> 1615275094 -0500	commit: roles
+55dacb4565794dc7baffd3e43ee462e162acb73e e0265f0b71e991e7b5cd6e215f19e96852185e8d Stywar <franco111988@gmail.com> 1615275450 -0500	commit: roles
+e0265f0b71e991e7b5cd6e215f19e96852185e8d ce5231e95e3dd0314b91219f89bbea4c6ac63f7c Stywar <franco111988@gmail.com> 1615275811 -0500	commit: roles
+ce5231e95e3dd0314b91219f89bbea4c6ac63f7c 42eb097a02e8d02a994f7388b2a7dee0fb7e0efa Stywar <franco111988@gmail.com> 1615275903 -0500	commit: roles
+42eb097a02e8d02a994f7388b2a7dee0fb7e0efa cd3c98603ad0416c5de240943fb393ca7703fe55 Stywar <franco111988@gmail.com> 1615276275 -0500	commit: roles
+cd3c98603ad0416c5de240943fb393ca7703fe55 acb4af9f91289207f0f1340a1204987ff33dc098 Stywar <franco111988@gmail.com> 1615335332 -0500	commit: se agrego cambios
+acb4af9f91289207f0f1340a1204987ff33dc098 860cc5f490563d5b587a335cb7105dacd4975317 Stywar <franco111988@gmail.com> 1615335583 -0500	commit: se agrego cambios
+860cc5f490563d5b587a335cb7105dacd4975317 e5b1290f896b35a827a3ec5eeab9612d8d2e820a Stywar <franco111988@gmail.com> 1615335825 -0500	commit: se agrego cambios
+e5b1290f896b35a827a3ec5eeab9612d8d2e820a 66d0a08f78c8f597b1c57a09731543dee5f9015a Stywar <franco111988@gmail.com> 1615336441 -0500	commit: se agrego cambios
+66d0a08f78c8f597b1c57a09731543dee5f9015a 6e82d7f4ede4c76e3913c462817aadd25a840f38 Stywar <franco111988@gmail.com> 1615336528 -0500	commit: se agrego cambios
+6e82d7f4ede4c76e3913c462817aadd25a840f38 1b1c61781bb47be9d2f2d7badfdc8f820e8d6d46 Stywar <franco111988@gmail.com> 1615336976 -0500	commit: se agrego codigo
+1b1c61781bb47be9d2f2d7badfdc8f820e8d6d46 995ee68dc037d05c2a445fccdf1bb4de9009548d Stywar <franco111988@gmail.com> 1615337820 -0500	commit: se agrego codigo
+995ee68dc037d05c2a445fccdf1bb4de9009548d 80a549418cdf7bc848c9af1da787ef7773904dd8 Stywar <franco111988@gmail.com> 1615948369 -0500	commit: change file main.tf
+80a549418cdf7bc848c9af1da787ef7773904dd8 8b50755423dcd37a4c9740f38524a03306bb56be Stywar <franco111988@gmail.com> 1615948641 -0500	pull origin main: Merge made by the 'recursive' strategy.
+8b50755423dcd37a4c9740f38524a03306bb56be 24a7da675c2ee50f8cd003fbce81b10b39442458 Stywar <franco111988@gmail.com> 1615953004 -0500	pull origin main: Fast-forward
+24a7da675c2ee50f8cd003fbce81b10b39442458 20d9e4172e71da49186213d45bd459bf4906da56 Stywar <franco111988@gmail.com> 1615953174 -0500	commit: sea grego file
+20d9e4172e71da49186213d45bd459bf4906da56 b75e7b43a0c468dca668adf57685dd3ceccf4596 Stywar <franco111988@gmail.com> 1615953332 -0500	commit: sea grego file
+b75e7b43a0c468dca668adf57685dd3ceccf4596 f015c9f914ff90e882a00939479dcca8e2f6983a Stywar <franco111988@gmail.com> 1616484541 -0500	commit: se agrego codigo
+f015c9f914ff90e882a00939479dcca8e2f6983a 903fc2ffdf4e1f12bf4d7707fd17337489400981 Stywar <franco111988@gmail.com> 1620520143 -0500	commit: changed
+903fc2ffdf4e1f12bf4d7707fd17337489400981 2ca3f589d2e728d76104089de17756e0efcbc059 Stywar <franco111988@gmail.com> 1620525144 -0500	commit: change pom
+2ca3f589d2e728d76104089de17756e0efcbc059 909ddafe9379050707be25050ec87c3327054e88 Stywar <franco111988@gmail.com> 1620525209 -0500	pull origin main: Merge made by the 'recursive' strategy.
+909ddafe9379050707be25050ec87c3327054e88 6670064ab49596afbfa418f6ccb7c8464d2beb1a Stywar <franco111988@gmail.com> 1624139908 -0500	pull origin main: Fast-forward
+6670064ab49596afbfa418f6ccb7c8464d2beb1a 19b14a91d0f526d9cb9eac9282560a48c7c91db6 Stywar <franco111988@gmail.com> 1624139978 -0500	commit: se agrego
+19b14a91d0f526d9cb9eac9282560a48c7c91db6 0e58769bb565d5e90a0837506c184adb78d79f58 Stywar <franco111988@gmail.com> 1624142072 -0500	commit: se cambio nombre k8s
+0e58769bb565d5e90a0837506c184adb78d79f58 b776e09c794b754bc3d81eba3c34f85b5382cf6b Stywar <franco111988@gmail.com> 1631411490 -0500	pull origin main: Fast-forward
+b776e09c794b754bc3d81eba3c34f85b5382cf6b 99f01a2f30f2be6c883c7e7985eee91d0e3eab7b Stywar <franco111988@gmail.com> 1631412873 -0500	commit: change main.tf
+99f01a2f30f2be6c883c7e7985eee91d0e3eab7b 0000000000000000000000000000000000000000 Carlos Dávila <perueduca63@minedu.gob.pe> 1683768805 -0500	Branch: renamed refs/heads/main to refs/heads/main
+99f01a2f30f2be6c883c7e7985eee91d0e3eab7b 99f01a2f30f2be6c883c7e7985eee91d0e3eab7b Carlos Dávila <perueduca63@minedu.gob.pe> 1683768805 -0500	Branch: renamed refs/heads/main to refs/heads/main
